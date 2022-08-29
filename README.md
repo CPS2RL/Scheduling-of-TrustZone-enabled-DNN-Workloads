@@ -1,1 +1,1 @@
-# DNN-in-TEE
+#Real-Time Scheduling of TrustZone-enabled DNN Workloads
